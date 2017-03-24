@@ -9,7 +9,7 @@ Just download the Unity package [FancySpeechBubble.unitypackage](./FancySpeechBu
 
 ## What's important
 
-Everything happens in the script [FancySpeechBubble.cs](./Assets/FancySpeechBubble/FancySpeechBubble.cs). There are a few configurable parameters for the script:
+Everything happens in the script [FancySpeechBubble.cs](./Assets/FancySpeechBubble/FancySpeechBubble.cs). The script needs to be attached to a GameObject with **UI.Text** and **UI.ContentSizeFitter**. There are a few configurable parameters for the script:
 
 | Parameter                    | Type   | Description                                                                      |
 | :--------------------------- | :----- | :------------------------------------------------------------------------------- |
