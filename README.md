@@ -1,6 +1,8 @@
 # FancySpeechBubble
 A fancy speech bubble based on Unity UI Text
 
+![Example.gif](./Example.gif)
+
 ## How to use this
 
 Just download the Unity package [FancySpeechBubble.unitypackage](./FancySpeechBubble.unitypackage) I also have a [blog post](http://solosodium.github.io/2017-03-23-fancy-speech-bubble) about this.
