@@ -5,7 +5,7 @@ A fancy speech bubble based on Unity UI Text
 
 ## How to use this
 
-Just download the Unity package [FancySpeechBubble.unitypackage](./FancySpeechBubble.unitypackage) I also have a [blog post](http://solosodium.github.io/2017-03-23-fancy-speech-bubble) about this.
+Just download the Unity package [FancySpeechBubble.unitypackage](./FancySpeechBubble.unitypackage). I also have a [blog post](http://solosodium.github.io/2017-03-23-fancy-speech-bubble) about this.
 
 ## What's important
 
